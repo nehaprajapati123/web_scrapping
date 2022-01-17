@@ -1,146 +1,87 @@
 [
     {
-        "movie_name": "The LEGO Movie",
-        "rating": "PG",
+        "movie_name": "WALL-E",
+        "rating": "G",
         "Genre": [
-            "Kids",
-            "&",
-            "family,",
+            "Animation,",
+            "Sci-fi,",
             "Adventure,",
             "Comedy,",
-            "Animation"
+            "Kids",
+            "&",
+            "family"
         ],
         "language": "English",
         "director": [
-            " PhilLord",
-            "ChrisMiller"
+            " AndrewStanton"
         ],
         "producer": [
-            "Dan",
-            "Lin,",
-            "Roy",
-            "Lee"
+            "Jim",
+            "Morris"
         ],
-        "runtime": 95
+        "runtime": 97
     },
     {
-        "cast name": "Chris Pratt"
+        "cast name": "Ben Burtt"
     },
     {
-        "cast name": "Will Ferrell"
+        "cast name": "Elissa Knight"
     },
     {
-        "cast name": "Morgan Freeman"
+        "cast name": "Jeff Garlin"
     },
     {
-        "cast name": "Elizabeth Banks"
+        "cast name": "Fred Willard"
     },
     {
-        "cast name": "Will Arnett"
+        "cast name": "John Ratzenberger"
     },
     {
-        "cast name": "Nick Offerman"
+        "cast name": "Kathy Najimy"
     },
     {
-        "cast name": "Alison Brie"
+        "cast name": "Sigourney Weaver"
     },
     {
-        "cast name": "Charlie Day"
+        "cast name": "Bob Bergen"
     },
     {
-        "cast name": "Liam Neeson"
+        "cast name": "Andrew Stanton"
     },
     {
-        "cast name": "Keith Ferguson"
+        "cast name": "Andrew Stanton"
     },
     {
-        "cast name": "Anthony Daniels"
+        "cast name": "Jim Reardon"
     },
     {
-        "cast name": "Billy Dee"
+        "cast name": "Jim Morris"
     },
     {
-        "cast name": "Dave Franco"
+        "cast name": "Thomas Newman"
     },
     {
-        "cast name": "Jonah Hill"
+        "cast name": "Thomas Newman"
     },
     {
-        "cast name": "Cobie Smulders"
+        "cast name": "Peter Gabriel"
     },
     {
-        "cast name": "Channing Tatum"
+        "cast name": "John Lasseter"
     },
     {
-        "cast name": "Jorma Taccone"
+        "cast name": "Ralph Eggleston"
     },
     {
-        "cast name": "Shaquille O'Neal"
+        "cast name": "Jeremy Lasky"
     },
     {
-        "cast name": "Melissa Sturm"
+        "cast name": "Danielle Feinberg"
     },
     {
-        "cast name": "Chris McKay"
+        "cast name": "Kevin Reher"
     },
     {
-        "cast name": "Phil Lord"
-    },
-    {
-        "cast name": "Chris Miller"
-    },
-    {
-        "cast name": "Phil Lord"
-    },
-    {
-        "cast name": "Chris Miller"
-    },
-    {
-        "cast name": "Dan Lin"
-    },
-    {
-        "cast name": "Roy Lee"
-    },
-    {
-        "cast name": "Jill Wilfert"
-    },
-    {
-        "cast name": "Matthew Ashton"
-    },
-    {
-        "cast name": "Kathleen Fleming"
-    },
-    {
-        "cast name": "Allison Abbate"
-    },
-    {
-        "cast name": "Zareh Nalbandian"
-    },
-    {
-        "cast name": "Jon Burton"
-    },
-    {
-        "cast name": "Benjamin Melniker"
-    },
-    {
-        "cast name": "Michael E."
-    },
-    {
-        "cast name": "Seanne Winslow"
-    },
-    {
-        "cast name": "Matt Skiena"
-    },
-    {
-        "cast name": "Bruce Berman"
-    },
-    {
-        "cast name": "James Packer"
-    },
-    {
-        "cast name": "Steven Mnuchin"
-    },
-    {
-        "cast name": "Pablo Plaisted"
+        "cast name": "Natalie Lyon"
     }
 ]
