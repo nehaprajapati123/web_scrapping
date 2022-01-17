@@ -5,9 +5,8 @@ from bs4 import BeautifulSoup
 import requests
 import json
 import pprint
-
-def scrap_movies_details(movie_url):
-    page=requests.get(movie_url)
+def scrap_movies_details(url1):
+    page=requests.get(url1)
     soup=BeautifulSoup(page.text,'html.parser')
     dic={}
     # requests movie url and transforming in html form.
@@ -50,6 +49,5 @@ def scrap_movies_details(movie_url):
     with open("task4.json","w+") as file:
         json.dump(dic,file,indent=4)   
     return dic
-url1="https://www.rottentomatoes.com/m/spider_man_into_the_spider_verse"  
-print(scrap_movies_details(url1))
-
+url1="https://www.rottentomatoes.com/m/the_lego_movie"  
+scrap_movies_details(url1)
